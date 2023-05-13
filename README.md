@@ -44,6 +44,7 @@ Steps:
 33. Once you have downloaded it and set it up, click the plus icon, input your public IP address, then input your username and password you created in step 31, and check the boxes for "import" and "connect".
 34. There will be a pop-up, just click accept.
 35. Now you are connected and ready to go!
+
 **Side note: This should be working fully free on Oracle Cloud, but just to make sure check your cost management in Oracle once in a while to double check you are not being charged.**
 
 
