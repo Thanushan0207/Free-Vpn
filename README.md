@@ -1,4 +1,4 @@
-# Free-Vpn
+# Free-Vpn-Oracle-Cloud
 VPN created with Oracle cloud and OpenVPN.
 
 Videos of VPN in action:
